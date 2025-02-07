@@ -1,0 +1,23 @@
+                                         Basic of Python
+1. what is python?
+2. Why we need python?
+3.what used in python in different technologies
+___________________________________________________________________________________________________________________________________________
+1.What is Python?
+Ans : Python is a object oriented programming. Its also complied and interpreter language.Its case sensitive language.
+variable and datatypes in python:
+list , set , dictionary , map , int , float , boolean , etc all datatypes used in python.
+conditonal statement are:
+if condition:
+if:
+else:
+elif condition:
+else condition
+loops use in python:
+while loops, do while loops and for loop and for each loops
+Try Catch execption
+finall exception 
+__init__ function
+Functions in Python:
+OOPs concept in python
+Data structure in python
