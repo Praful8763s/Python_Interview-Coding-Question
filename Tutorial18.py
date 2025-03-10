@@ -7,4 +7,4 @@ def Tria_hollow_Square(n):
                 print(" ",end =" ")
         print()
 n = int(input("Enter the rows"))
-Tria_hollow_Square(n)
+print(Tria_hollow_Square(n))
