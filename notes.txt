@@ -21,3 +21,6 @@ __init__ function
 Functions in Python:
 OOPs concept in python
 Data structure in python
+Pattern question in Python
+Project in Python
+Framework Learn like django , flask , fastapi
